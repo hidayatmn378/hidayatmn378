@@ -4,9 +4,9 @@
   <h2>Hi, Nur here 👋</h2>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img alt="Nur's Profile Banner" src="https://github.com/hidayatmn378/hidayatmn378/blob/main/myfile.gif" width="400" height="400" />
-</div>
+</div> -->
 
 <br />
 
@@ -22,23 +22,23 @@
 ## 🛠 Tech. Stacks & Tools
 
 ### Document Preparation :
-<!--
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
-<img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
-<img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
--->
+
+<img alt="Microsoft Office" src="https://img.shields.io/badge/microsoft-office-%23007ACC.svg?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />&nbsp;&nbsp;
+<img alt="Latex" src="https://img.shields.io/badge/latex%20-%23323330.svg?&style=for-the-badge&logo=latex&logoColor=yellowgreen" />&nbsp;&nbsp;
+<img alt="Libre Office" src="https://img.shields.io/badge/libre-office%20-%23E34F26.svg?&style=for-the-badge&logo=libreoffice&logoColor=white" />&nbsp;&nbsp;
+<img alt="Google Docs" src="https://img.shields.io/badge/google-docs%20-%231572B6.svg?&style=for-the-badge&logo=google&logoColor=white" />&nbsp;&nbsp;
+
 <!-- <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; -->
 
 
-### Mathematics Programming Languages :
-<!--
-<img alt="MATLAB" src="https://img.shields.io/badge/react_JS%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
-<img alt="Maple" src="https://img.shields.io/badge/strapi%20-%232E7EEA.svg?&style=for-the-badge&logo=strapi&logoColor=white" />&nbsp;&nbsp;
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
-<img alt="Fortran" src="https://img.shields.io/badge/Ant_Design_Pro-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" />&nbsp;&nbsp;
-<img alt="R" src="https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />&nbsp;&nbsp;
--->
+### Scientific Programming Languages :
+
+<img alt="MATLAB" src="https://img.shields.io/badge/matlab%20-%2320232a.svg?&style=for-the-badge&logo=wolframmathematica&logoColor=%2361DAFB" />&nbsp;&nbsp;
+<img alt="Maple" src="https://img.shields.io/badge/maple%20-%232E7EEA.svg?&style=for-the-badge&logo=wolframmathematica&logoColor=critical" />&nbsp;&nbsp;
+<img alt="Python Jupyter" src="https://img.shields.io/badge/python-jupyter%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
+<img alt="Fortran" src="https://img.shields.io/badge/fortran-0170FE?style=for-the-badge&logo=fortran&logoColor=white" />&nbsp;&nbsp;
+<img alt="R" src="https://img.shields.io/badge/R-311C87?style=for-the-badge&logo=r" />&nbsp;&nbsp;
+
 <!--
 ### Database :
 
